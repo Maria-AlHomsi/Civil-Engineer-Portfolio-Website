@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/Structural_Design.jpg",
+      "title": "Structural Design",
+      "description": "Drawing, modeling, analysis, and preparing documentation of construction works. Ensuring the safety and sustainability of the project. I do this using Autocad, FreeCAD, SketchUp, and StaadPro."
+    },
+    {
+      "id": "2",
+      "src": "./img/Estimattion.jpg",
+      "title": "Quantity Surveying",
+      "description": "Managing and controlling the costs of the Project while maintaining high standard quality. Tools used by surveyors have significantly evolved. I can work on tools like MS Excel, MS Word and AutoCAD."
+    },
+    {
+      "id": "3",
+      "src": "./img/Management.png",
+      "title": "Project Management",
+      "description": "Planning, executing, and closing projects, ensuring they are completed on time, within budget, and to the specified quality standards. Tools I use are; AutoCAD, MS Project, and MS Excel."
+    },
+    {
+      "id": "4",
+      "src": "./img/Land_Surveying.jpg",
+      "title": "Land Surveying",
+      "description": " Measuring and mapping the land, ensuring that construction and development is carried out accurately and according to legal and regulatory standards. I can operate on theodolite, Total station, GPS and Google Earth."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Floor_plan.png",
+      "title": "Floor Plan",
+      "description": "The floor plan of a house details all layouts of spaces and the placement of windows, doors, fixtures, and other furniture. I did a drawing of the floor plan with the help of AutoCAD.",
+      "link": "Visit My LinkedIn"
+    },
+    {
+      "id": "2",
+      "src": "./img/Reinforced_Concrete_Column_and_Footing.png",
+      "title": "Reinforced Concrete Column and Footing",
+      "description": "Drawing of column and footing reinforcement, showing the section and dimensions. I did a drawing of the Reinforced Concrete Column and Footing with the help of AutoCAD.",
+      "link": "Visit My LinkedIn"
+    },
+    {
+      "id": "3",
+      "src": "./img/Roof_Truss.png",
+      "title": "Roof truss",
+      "description": "A roof truss is a structural framework designed to support a roof, ensuring its stability and distribution of loads. I did a drawing of the roof truss with the help of AutoCAD.",
+      "link": "Visit My LinkedIn"
+    }
+  ]
+}
